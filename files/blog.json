@@ -1,0 +1,54 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"image": "./img/blog/Thumbnail.jpg",
+			"title": "Understanding Smart Home Systems & Maintenance",
+			"url": "https://www.google.com/",
+			"data": "19 Jan 2023",
+			"text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post.From connectivity problems to device malfunctions...</p>",
+			"tags": {
+					"Maintenance": "https://www.google.com/"
+				}
+			
+		},
+		{
+			"id": 2,
+			"image": "./img/blog/Thumbnail-1.jpg",
+			"title": "The Ultimate Guide to Home Repairs and Renovations",
+			"url": "https://www.google.com/",
+			"data": "24 Jan 2023",
+			"text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post.From connectivity problems to device malfunctions...</p>",
+			"tags": {
+					"Plumbing": "https://www.google.com/",
+					"Architecture": "https://www.google.com/",
+					"Maintenance": "https://www.google.com/"
+				}
+		},
+		{
+			"id": 3,
+			"image": "./img/blog/Thumbnail-2.jpg",
+			"title": "Painting Techniques for a Kitchen Refresh",
+			"url": "https://www.google.com/",
+			"data": "30 Jan 2023",
+			"text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post.From connectivity problems to device malfunctions...</p>",
+			"tags": {
+					"Plumbing": "https://www.google.com/",
+					"Maintenance": "https://www.google.com/"
+				}
+		},
+		{
+			"id": 4,
+			"image": "./img/blog/Thumbnail-1.jpg",
+			"title": "Painting Techniques Refresh",
+			"url": "https://www.google.com/",
+			"data": "01 Jan 2023",
+			"text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post.From connectivity problems to device malfunctions...</p>",
+			"tags": {
+					"Plumbing": "https://www.google.com/",
+					"Architecture": "https://www.google.com/",
+					"Maintenance": "https://www.google.com/"
+				}
+		}
+	]
+}
